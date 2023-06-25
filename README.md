@@ -1,4 +1,6 @@
 # Pulse-Code-Modulation-
+<img width="509" alt="image" src="https://github.com/yaranasserr/Pulse-Code-Modulation-/assets/72654303/858f2d8a-5544-4bb5-94f2-1614dd9f02c3">
+
 In this project, I implemented the Pulse Code Modulation (PCM) algorithm using MATLAB. PCM is a digital representation technique commonly used in audio and speech applications. 
 
 First, I converted the analog input signal into a discrete-time signal by sampling it at regular intervals. 
